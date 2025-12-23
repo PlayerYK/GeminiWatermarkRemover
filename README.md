@@ -1,6 +1,6 @@
 # Gemini 水印去除工具
 
-[English](README.en.md)
+[English](README.en.md) | [在线使用](https://aitoo.app/tools/gemini-watermark-remover/)
 
 一个独立的、最小依赖的工具，用于去除 Gemini AI 生成图片中的✦水印。100% 在浏览器端运行。
 

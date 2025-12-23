@@ -1,5 +1,7 @@
 # Gemini Watermark Remover
 
+[中文](README.md) | [Try Online](https://aitoo.app/tools/gemini-watermark-remover/)
+
 A standalone, minimal-dependency tool to remove Gemini AI watermarks from images. Works 100% client-side in the browser.
 
 ## Features
